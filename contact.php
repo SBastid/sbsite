@@ -4,11 +4,11 @@
     <link rel="icon" href="img/logo.png" />
     <link rel="stylesheet" href="style.css">
     <meta charset="utf-8">
-    <title>Projets Perso</title>
+    <title>Me contacter</title>
   </head>
   <body>
     <ul>
-      <li><a href="index.html">Retour</a></li>
+      <li><a href="index.html">Samuel Bastide</a></li>
     </ul>
   </body>
 </html>
