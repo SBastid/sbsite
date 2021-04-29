@@ -27,6 +27,7 @@
          <label for="Message">Message:</label>
          <textarea name="Message" rows="8" cols="80"></textarea>
       </div>
+      <button type="button" name="button">Envoyer</button>
     </form>
   </body>
 </html>
