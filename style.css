@@ -26,11 +26,10 @@ li a{
 }
 
 .Projetsimg{
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.3s;
+  border: 1px solid grey;
+  border-radius: 5px;	
   height: 100%;
-  max-height:150px;
+  max-height:100px;
 }
 
 .projets {
@@ -64,6 +63,11 @@ li a{
 }
 
 .imglinkedin{
+  width: 50px;
+  height: auto;
+}
+
+.imgmail{
   width: 50px;
   height: auto;
 }
