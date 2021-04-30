@@ -1,79 +1,76 @@
 body{
-  margin-left: 20%;
-  margin-right: 20%;
-  background-image: #DCDCDC;
+	margin-left: 15%;
+  	margin-right: 15%;
+  	background-image: #DCDCDC;
 }
 
 ul{
-  background-color: grey;
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-  overflow: hidden;
+  	background-color: grey;
+  	list-style-type: none;
+  	margin: 0px;
+  	padding: 0px;
+  	overflow: hidden;
 }
 
 li{
-  float: left;
+  	float: left;
 }
 
 li a{
-  display: block;
-  color: white;
-  text-align: left;
-  padding: 14px 16px;
-  text-decoration:none;
-  font-family: helvetica;
+  	display: block;
+  	color: white;
+  	text-align: left;
+  	padding: 14px 16px;
+  	text-decoration:none;
+  	font-family: helvetica;
 }
 
 .Projetsimg{
-  border: 1px solid grey;
-  border-radius: 5px;	
-  height: 100%;
-  max-height:100px;
+	margin-right: 2px;
+	margin-left: 2px;
+	margin-top: 2px;
+  	border: 1px solid grey;
+  	border-radius: 5px;	
+  	height: 100%;
+  	max-height:120px;
 }
 
 .projets {
-  font-size: large;
-  font-family: helvetica;
+  	font-size: large;
+  	font-family: helvetica;
 }
 
 .Contact {
-  font-size: large;
-  font-family: helvetica;
-}
-
-.mail {
-  font-family: helvetica;
-  font-size: 13px;
-}
-
-.linkedin {
-  width: 20px;
-  height: auto;
+  	font-size: large;
+  	font-family: helvetica;
 }
 
 .pprincipal{
-  float: left;
-  width: 70%;
+  	margin-top: 1%;
+  	float: left;
+  	width: 70%;
 }
 
 .psecondaire{
-  margin-top: 1%;
-  float: left;
-  width: 30%;
+  	margin-top: 1%;
+  	float: left;
+  	width: 30%;
 }
 
-.imglinkedin{
-  width: 50px;
-  height: auto;
+.icon{
+	margin-left: 1px;
+  	width: 50px;
+  	height: auto;
 }
 
-.imgmail{
-  width: 50px;
-  height: auto;  
+.titres{
+	font-family: helvetica;
+	font-size: large;
+	font-weight: bold;
+	text-decoration: underline;
 }
 
-.imgcv{
-  width: 50px;
-  height: auto;  
+.txtpre{
+	font-family: helvetica;
+	font-size: 14px;
 }
