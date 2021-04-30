@@ -58,6 +58,7 @@ li a{
 }
 
 .psecondaire{
+  margin-top: 1%;
   float: left;
   width: 30%;
 }
@@ -68,6 +69,11 @@ li a{
 }
 
 .imgmail{
+  width: 50px;
+  height: auto;  
+}
+
+.imgcv{
   width: 50px;
   height: auto;  
 }
