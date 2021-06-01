@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
+<?php 
+
+?>
+<html>
   <head>
     <link rel="icon" href="img/logo.png" />
     <link rel="stylesheet" href="style.css">
@@ -31,3 +33,5 @@
     </form>
   </body>
 </html>
+
+
